@@ -146,3 +146,4 @@
 /Users/jalbaoleg/Documents/C#/EvoStockAPI/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/jalbaoleg/Documents/C#/EvoStockAPI/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/jalbaoleg/Documents/C#/EvoStockAPI/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jalbaoleg/Documents/C#/EvoStockAPI/obj/Debug/net10.0/EvoStockAPI.sourcelink.json

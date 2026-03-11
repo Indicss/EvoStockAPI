@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EvoStockAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d931d7bead2af79e43435375a711f1797f7877c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("EvoStockAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EvoStockAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
