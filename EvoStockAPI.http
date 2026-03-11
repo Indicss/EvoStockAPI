@@ -1,0 +1,6 @@
+@EvoStockAPI_HostAddress = http://localhost:5100
+
+GET {{EvoStockAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
